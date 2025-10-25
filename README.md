@@ -16,7 +16,7 @@ Classify SMS messages as **Spam** or **Ham (not spam)** using machine learning a
    - **Confusion Matrix**
 
 ## Tools / Technologies Used
-- Python 3.x  
+- Python 3.12
 - Pandas, scikit-learn (`train_test_split`, `LabelEncoder`, `TfidfVectorizer`, `LogisticRegression`, `accuracy_score`, `classification_report`, `confusion_matrix`)  
 - Jupyter Notebook or Google Colab  
 
